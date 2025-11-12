@@ -28,7 +28,7 @@
 ![Process Manager](./images/screenshot-processes.png)
 
 ### CPU Monitoring
-![CPU Monitoring]([https://github.com/Pinperepette/system-monitor/blob/main/Image/Screenshot%202025-11-12%20alle%2021.28.32.png)
+![CPU Monitor](https://raw.githubusercontent.com/Pinperepette/system-monitor/main/Image/Screenshot%202025-11-12%20alle%2021.28.32.png)
 
 ### Memory Overview
 ![Memory Overview](./images/screenshot-memory.png)
