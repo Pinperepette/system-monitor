@@ -22,10 +22,10 @@
 <div align="center">
 
 ### Main Interface
-![Main Interface](./images/screenshot-main.png)
+![Main Interface](./Image/Screenshot%202025-11-12%20alle%2021.29.01.png)
 
 ### Process Manager
-![Process Manager](./images/screenshot-processes.png)
+![Process Manager](./Image/Screenshot%202025-11-12%20alle%2021.29.15.png)
 
 ### CPU Monitoring
 ![CPU Monitor](https://raw.githubusercontent.com/Pinperepette/system-monitor/main/Image/Screenshot%202025-11-12%20alle%2021.28.32.png)
