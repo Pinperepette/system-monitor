@@ -28,7 +28,7 @@
 ![Process Manager](./images/screenshot-processes.png)
 
 ### CPU Monitoring
-![CPU Monitoring](./images/Screenshot 2025-11-12 alle 21.28.32.png)
+![CPU Monitoring](./image/Screenshot 2025-11-12 alle 21.28.32.png)
 
 ### Memory Overview
 ![Memory Overview](./images/screenshot-memory.png)
