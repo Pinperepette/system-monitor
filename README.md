@@ -33,6 +33,9 @@
 ### Memory Overview
 ![Memory Monitor](./Image/Screenshot%202025-11-12%20alle%2021.28.50.png)
 
+### Storage Monitor
+![Storage Monitor](./Image/Screenshot%202025-11-12%20alle%2021.29.38.png)
+
 </div>
 
 ---
