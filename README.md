@@ -278,7 +278,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Author**: Your Name
+**Author**: pinperepette
 - GitHub: [@pinperepette](https://github.com/pinperepette)
 
 **Project Link**: [https://github.com/pinperepette/system-monitor](https://github.com/pinperepette/system-monitor)
